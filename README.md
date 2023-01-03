@@ -7,3 +7,5 @@ needing to learn about music theory or sheet music. To start, run the program 'M
 Click a box with an instrument name to hear a phrase. Click new phrase for a different phrase. Use the louder and softer buttons to adjust each instrument. 
 Use the play button to play the whole song (all of the intruments at the same time). The music and feelings provoked by it can be discussed, and then the music can be
 adjusted to fit any mood. 
+
+Once you click a button, you have to wait until it's done before you click another one. 
